@@ -1,0 +1,16 @@
+PODS:
+  - LessAutolayoutBoilerplate (1.0.0)
+
+DEPENDENCIES:
+  - LessAutolayoutBoilerplate (from `../`)
+
+EXTERNAL SOURCES:
+  LessAutolayoutBoilerplate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LessAutolayoutBoilerplate: 5d4c2dce106215ef4b83558c825b80851fda873c
+
+PODFILE CHECKSUM: 61f5fd305e869c60a6f802648672e2339edec0c2
+
+COCOAPODS: 1.9.3

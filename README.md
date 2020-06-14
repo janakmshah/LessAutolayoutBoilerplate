@@ -1,6 +1,6 @@
 # LessAutolayoutBoilerplate
 
-[![CI Status](https://img.shields.io/travis/Janak Shah/LessAutolayoutBoilerplate.svg?style=flat)](https://travis-ci.org/Janak Shah/LessAutolayoutBoilerplate)
+[![CI Status](https://img.shields.io/travis/janakmshah/LessAutolayoutBoilerplate.svg?style=flat)](https://travis-ci.org/janakmshah/LessAutolayoutBoilerplate)
 [![Version](https://img.shields.io/cocoapods/v/LessAutolayoutBoilerplate.svg?style=flat)](https://cocoapods.org/pods/LessAutolayoutBoilerplate)
 [![License](https://img.shields.io/cocoapods/l/LessAutolayoutBoilerplate.svg?style=flat)](https://cocoapods.org/pods/LessAutolayoutBoilerplate)
 [![Platform](https://img.shields.io/cocoapods/p/LessAutolayoutBoilerplate.svg?style=flat)](https://cocoapods.org/pods/LessAutolayoutBoilerplate)
@@ -22,7 +22,7 @@ pod 'LessAutolayoutBoilerplate'
 
 ## Author
 
-Janak Shah, janak.shah@cuvva.com
+Janak Shah, [janakshah.com](janakshah.com)
 
 ## License
 
