@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LessAutolayoutBoilerplate_Example' do
+  pod 'LessAutolayoutBoilerplate', :path => '../'
+
+  target 'LessAutolayoutBoilerplate_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
